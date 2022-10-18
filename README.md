@@ -1,4 +1,4 @@
-# DS_Blog
+# AirBnB Analysis
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -26,8 +26,8 @@ Datasets are available in this repository in the `data` folder.
 The `analyze` notebook is, the only file needed. The data is read inside the notebook and analysis of all 3 questions is done in there. 
 
 ## Results<a name="results"></a>
+You can find the results on [IoT Blog](https://iot-blog.net)
 
-TODO
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
