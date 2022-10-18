@@ -26,7 +26,7 @@ Datasets are available in this repository in the `data` folder.
 The `analyze` notebook is, the only file needed. The data is read inside the notebook and analysis of all 3 questions is done in there. 
 
 ## Results<a name="results"></a>
-You can find the results on [IoT Blog](https://iot-blog.net)
+You can find the results on [IoT Blog](https://iot-blog.net/2022/10/18/get-the-most-out-of-your-money-on-airbnb/)
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
